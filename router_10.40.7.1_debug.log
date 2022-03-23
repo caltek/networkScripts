@@ -1,0 +1,504 @@
+IP10.50.28.114
+set traffic-control advanced-queue leaf queue 89 bandwidth 3mbit
+IP10.50.28.114
+set traffic-control advanced-queue leaf queue 90 bandwidth 3mbit
+IP10.50.28.117
+set traffic-control advanced-queue leaf queue 93 bandwidth 5mbit
+IP10.50.28.117
+set traffic-control advanced-queue leaf queue 94 bandwidth 5mbit
+IP10.50.28.118
+set traffic-control advanced-queue leaf queue 95 bandwidth 3mbit
+IP10.50.28.118
+set traffic-control advanced-queue leaf queue 96 bandwidth 3mbit
+IP10.50.28.119
+set traffic-control advanced-queue leaf queue 97 bandwidth 6mbit
+IP10.50.28.119
+set traffic-control advanced-queue leaf queue 98 bandwidth 6mbit
+IP10.50.28.121
+set traffic-control advanced-queue leaf queue 99 bandwidth 7mbit
+IP10.50.28.121
+set traffic-control advanced-queue leaf queue 100 bandwidth 7mbit
+IP10.50.28.122
+set traffic-control advanced-queue leaf queue 101 bandwidth 3mbit
+IP10.50.28.122
+set traffic-control advanced-queue leaf queue 102 bandwidth 3mbit
+IP10.50.28.124
+set traffic-control advanced-queue leaf queue 111 bandwidth 6mbit
+IP10.50.28.124
+set traffic-control advanced-queue leaf queue 112 bandwidth 6mbit
+IP10.50.28.13
+set traffic-control advanced-queue leaf queue 59 bandwidth 8mbit
+IP10.50.28.13
+set traffic-control advanced-queue leaf queue 60 bandwidth 8mbit
+IP10.50.28.139
+set traffic-control advanced-queue leaf queue 245 bandwidth 5mbit
+IP10.50.28.139
+set traffic-control advanced-queue leaf queue 246 bandwidth 5mbit
+IP10.50.28.14
+set traffic-control advanced-queue leaf queue 3 bandwidth 3mbit
+IP10.50.28.14
+set traffic-control advanced-queue leaf queue 4 bandwidth 3mbit
+IP10.50.28.156
+set traffic-control advanced-queue leaf queue 109 bandwidth 3mbit
+IP10.50.28.156
+set traffic-control advanced-queue leaf queue 110 bandwidth 3mbit
+IP10.50.28.157
+set traffic-control advanced-queue leaf queue 103 bandwidth 3mbit
+IP10.50.28.157
+set traffic-control advanced-queue leaf queue 104 bandwidth 3mbit
+IP10.50.28.158
+set traffic-control advanced-queue leaf queue 105 bandwidth 3mbit
+IP10.50.28.158
+set traffic-control advanced-queue leaf queue 106 bandwidth 3mbit
+IP10.50.28.159
+set traffic-control advanced-queue leaf queue 107 bandwidth 3mbit
+IP10.50.28.159
+set traffic-control advanced-queue leaf queue 108 bandwidth 3mbit
+IP10.50.28.16
+set traffic-control advanced-queue leaf queue 7 bandwidth 5mbit
+IP10.50.28.16
+set traffic-control advanced-queue leaf queue 8 bandwidth 5mbit
+IP10.50.28.160
+set traffic-control advanced-queue leaf queue 141 bandwidth 3mbit
+IP10.50.28.160
+set traffic-control advanced-queue leaf queue 142 bandwidth 3mbit
+IP10.50.28.161
+set traffic-control advanced-queue leaf queue 167 bandwidth 3mbit
+IP10.50.28.161
+set traffic-control advanced-queue leaf queue 168 bandwidth 3mbit
+IP10.50.28.166
+set traffic-control advanced-queue leaf queue 117 bandwidth 16mbit
+IP10.50.28.166
+set traffic-control advanced-queue leaf queue 118 bandwidth 16mbit
+IP10.50.28.167
+set traffic-control advanced-queue leaf queue 121 bandwidth 3mbit
+IP10.50.28.167
+set traffic-control advanced-queue leaf queue 122 bandwidth 3mbit
+IP10.50.28.168
+set traffic-control advanced-queue leaf queue 119 bandwidth 6mbit
+IP10.50.28.168
+set traffic-control advanced-queue leaf queue 120 bandwidth 6mbit
+IP10.50.28.169
+set traffic-control advanced-queue leaf queue 123 bandwidth 6mbit
+IP10.50.28.169
+set traffic-control advanced-queue leaf queue 124 bandwidth 6mbit
+IP10.50.28.17
+set traffic-control advanced-queue leaf queue 263 bandwidth 3mbit
+IP10.50.28.17
+set traffic-control advanced-queue leaf queue 264 bandwidth 3mbit
+IP10.50.28.171
+set traffic-control advanced-queue leaf queue 125 bandwidth 3mbit
+IP10.50.28.171
+set traffic-control advanced-queue leaf queue 126 bandwidth 3mbit
+IP10.50.28.172
+set traffic-control advanced-queue leaf queue 127 bandwidth 5mbit
+IP10.50.28.172
+set traffic-control advanced-queue leaf queue 128 bandwidth 5mbit
+IP10.50.28.173
+set traffic-control advanced-queue leaf queue 129 bandwidth 3mbit
+IP10.50.28.173
+set traffic-control advanced-queue leaf queue 130 bandwidth 3mbit
+IP10.50.28.174
+set traffic-control advanced-queue leaf queue 131 bandwidth 5mbit
+IP10.50.28.174
+set traffic-control advanced-queue leaf queue 132 bandwidth 5mbit
+IP10.50.28.177
+set traffic-control advanced-queue leaf queue 137 bandwidth 3mbit
+IP10.50.28.177
+set traffic-control advanced-queue leaf queue 138 bandwidth 3mbit
+IP10.50.28.178
+set traffic-control advanced-queue leaf queue 133 bandwidth 6mbit
+IP10.50.28.178
+set traffic-control advanced-queue leaf queue 134 bandwidth 6mbit
+IP10.50.28.179
+set traffic-control advanced-queue leaf queue 135 bandwidth 5mbit
+IP10.50.28.179
+set traffic-control advanced-queue leaf queue 136 bandwidth 5mbit
+IP10.50.28.18
+set traffic-control advanced-queue leaf queue 9 bandwidth 5mbit
+IP10.50.28.18
+set traffic-control advanced-queue leaf queue 10 bandwidth 5mbit
+IP10.50.28.180
+set traffic-control advanced-queue leaf queue 139 bandwidth 7mbit
+IP10.50.28.180
+set traffic-control advanced-queue leaf queue 140 bandwidth 7mbit
+IP10.50.28.181
+set traffic-control advanced-queue leaf queue 143 bandwidth 7mbit
+IP10.50.28.181
+set traffic-control advanced-queue leaf queue 144 bandwidth 7mbit
+IP10.50.28.183
+set traffic-control advanced-queue leaf queue 147 bandwidth 3mbit
+IP10.50.28.183
+set traffic-control advanced-queue leaf queue 148 bandwidth 3mbit
+IP10.50.28.184
+set traffic-control advanced-queue leaf queue 151 bandwidth 3mbit
+IP10.50.28.184
+set traffic-control advanced-queue leaf queue 152 bandwidth 3mbit
+IP10.50.28.185
+set traffic-control advanced-queue leaf queue 149 bandwidth 5mbit
+IP10.50.28.185
+set traffic-control advanced-queue leaf queue 150 bandwidth 5mbit
+IP10.50.28.186
+set traffic-control advanced-queue leaf queue 155 bandwidth 5mbit
+IP10.50.28.186
+set traffic-control advanced-queue leaf queue 156 bandwidth 5mbit
+IP10.50.28.187
+set traffic-control advanced-queue leaf queue 153 bandwidth 3mbit
+IP10.50.28.187
+set traffic-control advanced-queue leaf queue 154 bandwidth 3mbit
+IP10.50.28.188
+set traffic-control advanced-queue leaf queue 157 bandwidth 3mbit
+IP10.50.28.188
+set traffic-control advanced-queue leaf queue 158 bandwidth 3mbit
+IP10.50.28.189
+set traffic-control advanced-queue leaf queue 159 bandwidth 8mbit
+IP10.50.28.189
+set traffic-control advanced-queue leaf queue 160 bandwidth 8mbit
+IP10.50.28.19
+set traffic-control advanced-queue leaf queue 11 bandwidth 3mbit
+IP10.50.28.19
+set traffic-control advanced-queue leaf queue 12 bandwidth 3mbit
+IP10.50.28.191
+set traffic-control advanced-queue leaf queue 161 bandwidth 3mbit
+IP10.50.28.191
+set traffic-control advanced-queue leaf queue 162 bandwidth 3mbit
+IP10.50.28.192
+set traffic-control advanced-queue leaf queue 163 bandwidth 14mbit
+IP10.50.28.192
+set traffic-control advanced-queue leaf queue 164 bandwidth 14mbit
+IP10.50.28.193
+set traffic-control advanced-queue leaf queue 165 bandwidth 6mbit
+IP10.50.28.193
+set traffic-control advanced-queue leaf queue 166 bandwidth 6mbit
+IP10.50.28.194
+set traffic-control advanced-queue leaf queue 169 bandwidth 6mbit
+IP10.50.28.194
+set traffic-control advanced-queue leaf queue 170 bandwidth 6mbit
+IP10.50.28.195
+set traffic-control advanced-queue leaf queue 171 bandwidth 3mbit
+IP10.50.28.195
+set traffic-control advanced-queue leaf queue 172 bandwidth 3mbit
+IP10.50.28.197
+set traffic-control advanced-queue leaf queue 175 bandwidth 2mbit
+IP10.50.28.197
+set traffic-control advanced-queue leaf queue 176 bandwidth 2mbit
+IP10.50.28.199
+set traffic-control advanced-queue leaf queue 179 bandwidth 3mbit
+IP10.50.28.199
+set traffic-control advanced-queue leaf queue 180 bandwidth 3mbit
+IP10.50.28.200
+set traffic-control advanced-queue leaf queue 181 bandwidth 7mbit
+IP10.50.28.200
+set traffic-control advanced-queue leaf queue 182 bandwidth 7mbit
+IP10.50.28.202
+set traffic-control advanced-queue leaf queue 185 bandwidth 18mbit
+IP10.50.28.202
+set traffic-control advanced-queue leaf queue 186 bandwidth 18mbit
+IP10.50.28.203
+set traffic-control advanced-queue leaf queue 187 bandwidth 3mbit
+IP10.50.28.203
+set traffic-control advanced-queue leaf queue 188 bandwidth 3mbit
+IP10.50.28.204
+set traffic-control advanced-queue leaf queue 189 bandwidth 7mbit
+IP10.50.28.204
+set traffic-control advanced-queue leaf queue 190 bandwidth 7mbit
+IP10.50.28.205
+set traffic-control advanced-queue leaf queue 191 bandwidth 16mbit
+IP10.50.28.205
+set traffic-control advanced-queue leaf queue 192 bandwidth 16mbit
+IP10.50.28.206
+set traffic-control advanced-queue leaf queue 193 bandwidth 16mbit
+IP10.50.28.206
+set traffic-control advanced-queue leaf queue 194 bandwidth 16mbit
+IP10.50.28.207
+set traffic-control advanced-queue leaf queue 195 bandwidth 6mbit
+IP10.50.28.207
+set traffic-control advanced-queue leaf queue 196 bandwidth 6mbit
+IP10.50.28.21
+set traffic-control advanced-queue leaf queue 15 bandwidth 3mbit
+IP10.50.28.21
+set traffic-control advanced-queue leaf queue 16 bandwidth 3mbit
+IP10.50.28.210
+set traffic-control advanced-queue leaf queue 201 bandwidth 5mbit
+IP10.50.28.210
+set traffic-control advanced-queue leaf queue 202 bandwidth 5mbit
+IP10.50.28.211
+set traffic-control advanced-queue leaf queue 203 bandwidth 7mbit
+IP10.50.28.211
+set traffic-control advanced-queue leaf queue 204 bandwidth 7mbit
+IP10.50.28.212
+set traffic-control advanced-queue leaf queue 205 bandwidth 2mbit
+IP10.50.28.212
+set traffic-control advanced-queue leaf queue 206 bandwidth 2mbit
+IP10.50.28.212
+set traffic-control advanced-queue leaf queue 205 bandwidth 2mbit
+IP10.50.28.212
+set traffic-control advanced-queue leaf queue 206 bandwidth 2mbit
+IP10.50.28.214
+set traffic-control advanced-queue leaf queue 207 bandwidth 7mbit
+IP10.50.28.214
+set traffic-control advanced-queue leaf queue 208 bandwidth 7mbit
+IP10.50.28.215
+set traffic-control advanced-queue leaf queue 209 bandwidth 5mbit
+IP10.50.28.215
+set traffic-control advanced-queue leaf queue 210 bandwidth 5mbit
+IP10.50.28.216
+set traffic-control advanced-queue leaf queue 211 bandwidth 14mbit
+IP10.50.28.216
+set traffic-control advanced-queue leaf queue 212 bandwidth 14mbit
+IP10.50.28.218
+set traffic-control advanced-queue leaf queue 217 bandwidth 2mbit
+IP10.50.28.218
+set traffic-control advanced-queue leaf queue 218 bandwidth 2mbit
+IP10.50.28.219
+set traffic-control advanced-queue leaf queue 219 bandwidth 5mbit
+IP10.50.28.219
+set traffic-control advanced-queue leaf queue 220 bandwidth 5mbit
+IP10.50.28.220
+set traffic-control advanced-queue leaf queue 221 bandwidth 3mbit
+IP10.50.28.220
+set traffic-control advanced-queue leaf queue 222 bandwidth 3mbit
+IP10.50.28.222
+set traffic-control advanced-queue leaf queue 227 bandwidth 6mbit
+IP10.50.28.222
+set traffic-control advanced-queue leaf queue 228 bandwidth 6mbit
+IP10.50.28.223
+set traffic-control advanced-queue leaf queue 229 bandwidth 3mbit
+IP10.50.28.223
+set traffic-control advanced-queue leaf queue 230 bandwidth 3mbit
+IP10.50.28.224
+set traffic-control advanced-queue leaf queue 231 bandwidth 3mbit
+IP10.50.28.224
+set traffic-control advanced-queue leaf queue 232 bandwidth 16mbit
+IP10.50.28.226
+set traffic-control advanced-queue leaf queue 233 bandwidth 5mbit
+IP10.50.28.226
+set traffic-control advanced-queue leaf queue 234 bandwidth 5mbit
+IP10.50.28.228
+set traffic-control advanced-queue leaf queue 237 bandwidth 6mbit
+IP10.50.28.228
+set traffic-control advanced-queue leaf queue 238 bandwidth 6mbit
+IP10.50.28.23
+set traffic-control advanced-queue leaf queue 17 bandwidth 7mbit
+IP10.50.28.23
+set traffic-control advanced-queue leaf queue 18 bandwidth 7mbit
+IP10.50.28.231
+set traffic-control advanced-queue leaf queue 239 bandwidth 6mbit
+IP10.50.28.231
+set traffic-control advanced-queue leaf queue 240 bandwidth 6mbit
+IP10.50.28.232
+set traffic-control advanced-queue leaf queue 291 bandwidth 3mbit
+IP10.50.28.232
+set traffic-control advanced-queue leaf queue 292 bandwidth 3mbit
+IP10.50.28.233
+set traffic-control advanced-queue leaf queue 241 bandwidth 32mbit
+IP10.50.28.233
+set traffic-control advanced-queue leaf queue 242 bandwidth 32mbit
+IP10.50.28.245
+set traffic-control advanced-queue leaf queue 247 bandwidth 3mbit
+IP10.50.28.245
+set traffic-control advanced-queue leaf queue 248 bandwidth 3mbit
+IP10.50.28.246
+set traffic-control advanced-queue leaf queue 249 bandwidth 14mbit
+IP10.50.28.246
+set traffic-control advanced-queue leaf queue 250 bandwidth 14mbit
+IP10.50.28.247
+set traffic-control advanced-queue leaf queue 251 bandwidth 3mbit
+IP10.50.28.247
+set traffic-control advanced-queue leaf queue 252 bandwidth 3mbit
+IP10.50.28.249
+set traffic-control advanced-queue leaf queue 255 bandwidth 3mbit
+IP10.50.28.249
+set traffic-control advanced-queue leaf queue 256 bandwidth 3mbit
+IP10.50.28.25
+set traffic-control advanced-queue leaf queue 21 bandwidth 32mbit
+IP10.50.28.25
+set traffic-control advanced-queue leaf queue 22 bandwidth 32mbit
+IP10.50.28.250
+set traffic-control advanced-queue leaf queue 257 bandwidth 3mbit
+IP10.50.28.250
+set traffic-control advanced-queue leaf queue 258 bandwidth 3mbit
+IP10.50.28.251
+set traffic-control advanced-queue leaf queue 259 bandwidth 7mbit
+IP10.50.28.251
+set traffic-control advanced-queue leaf queue 260 bandwidth 7mbit
+IP10.50.28.252
+set traffic-control advanced-queue leaf queue 261 bandwidth 3mbit
+IP10.50.28.252
+set traffic-control advanced-queue leaf queue 262 bandwidth 3mbit
+IP10.50.28.253
+set traffic-control advanced-queue leaf queue 265 bandwidth 5mbit
+IP10.50.28.253
+set traffic-control advanced-queue leaf queue 266 bandwidth 5mbit
+IP10.50.28.254
+set traffic-control advanced-queue leaf queue 267 bandwidth 14mbit
+IP10.50.28.254
+set traffic-control advanced-queue leaf queue 268 bandwidth 14mbit
+IP10.50.28.28
+set traffic-control advanced-queue leaf queue 37 bandwidth 7mbit
+IP10.50.28.28
+set traffic-control advanced-queue leaf queue 38 bandwidth 7mbit
+IP10.50.28.30
+set traffic-control advanced-queue leaf queue 23 bandwidth 6mbit
+IP10.50.28.30
+set traffic-control advanced-queue leaf queue 24 bandwidth 6mbit
+IP10.50.28.31
+set traffic-control advanced-queue leaf queue 25 bandwidth 16mbit
+IP10.50.28.31
+set traffic-control advanced-queue leaf queue 26 bandwidth 16mbit
+IP10.50.28.32
+set traffic-control advanced-queue leaf queue 27 bandwidth 5mbit
+IP10.50.28.32
+set traffic-control advanced-queue leaf queue 28 bandwidth 5mbit
+IP10.50.28.35
+set traffic-control advanced-queue leaf queue 29 bandwidth 8mbit
+IP10.50.28.35
+set traffic-control advanced-queue leaf queue 30 bandwidth 8mbit
+IP10.50.28.37
+set traffic-control advanced-queue leaf queue 39 bandwidth 3mbit
+IP10.50.28.37
+set traffic-control advanced-queue leaf queue 40 bandwidth 3mbit
+IP10.50.28.39
+set traffic-control advanced-queue leaf queue 31 bandwidth 6mbit
+IP10.50.28.39
+set traffic-control advanced-queue leaf queue 32 bandwidth 6mbit
+IP10.50.28.40
+set traffic-control advanced-queue leaf queue 33 bandwidth 3mbit
+IP10.50.28.40
+set traffic-control advanced-queue leaf queue 34 bandwidth 3mbit
+IP10.50.28.41
+set traffic-control advanced-queue leaf queue 35 bandwidth 3mbit
+IP10.50.28.41
+set traffic-control advanced-queue leaf queue 36 bandwidth 3mbit
+IP10.50.28.47
+set traffic-control advanced-queue leaf queue 43 bandwidth 6mbit
+IP10.50.28.47
+set traffic-control advanced-queue leaf queue 44 bandwidth 6mbit
+IP10.50.28.51
+set traffic-control advanced-queue leaf queue 5 bandwidth 7mbit
+IP10.50.28.51
+set traffic-control advanced-queue leaf queue 6 bandwidth 7mbit
+IP10.50.28.57
+set traffic-control advanced-queue leaf queue 47 bandwidth 7mbit
+IP10.50.28.57
+set traffic-control advanced-queue leaf queue 48 bandwidth 7mbit
+IP10.50.28.59
+set traffic-control advanced-queue leaf queue 49 bandwidth 6mbit
+IP10.50.28.59
+set traffic-control advanced-queue leaf queue 50 bandwidth 6mbit
+IP10.50.28.60
+set traffic-control advanced-queue leaf queue 51 bandwidth 3mbit
+IP10.50.28.60
+set traffic-control advanced-queue leaf queue 52 bandwidth 3mbit
+IP10.50.28.63
+set traffic-control advanced-queue leaf queue 53 bandwidth 3mbit
+IP10.50.28.63
+set traffic-control advanced-queue leaf queue 54 bandwidth 3mbit
+IP10.50.28.64
+set traffic-control advanced-queue leaf queue 55 bandwidth 7mbit
+IP10.50.28.64
+set traffic-control advanced-queue leaf queue 56 bandwidth 7mbit
+IP10.50.28.65
+set traffic-control advanced-queue leaf queue 67 bandwidth 5mbit
+IP10.50.28.65
+set traffic-control advanced-queue leaf queue 68 bandwidth 5mbit
+IP10.50.28.69
+set traffic-control advanced-queue leaf queue 57 bandwidth 16mbit
+IP10.50.28.69
+set traffic-control advanced-queue leaf queue 58 bandwidth 16mbit
+IP10.50.28.70
+set traffic-control advanced-queue leaf queue 61 bandwidth 14mbit
+IP10.50.28.70
+set traffic-control advanced-queue leaf queue 62 bandwidth 14mbit
+IP10.50.28.72
+set traffic-control advanced-queue leaf queue 63 bandwidth 14mbit
+IP10.50.28.72
+set traffic-control advanced-queue leaf queue 64 bandwidth 14mbit
+IP10.50.28.75
+set traffic-control advanced-queue leaf queue 65 bandwidth 3mbit
+IP10.50.28.75
+set traffic-control advanced-queue leaf queue 66 bandwidth 3mbit
+IP10.50.28.76
+set traffic-control advanced-queue leaf queue 69 bandwidth 6mbit
+IP10.50.28.76
+set traffic-control advanced-queue leaf queue 70 bandwidth 6mbit
+IP10.50.28.78
+set traffic-control advanced-queue leaf queue 73 bandwidth 6mbit
+IP10.50.28.78
+set traffic-control advanced-queue leaf queue 74 bandwidth 6mbit
+IP10.50.28.80
+set traffic-control advanced-queue leaf queue 75 bandwidth 3mbit
+IP10.50.28.80
+set traffic-control advanced-queue leaf queue 76 bandwidth 3mbit
+IP10.50.28.81
+set traffic-control advanced-queue leaf queue 77 bandwidth 3mbit
+IP10.50.28.81
+set traffic-control advanced-queue leaf queue 78 bandwidth 3mbit
+IP10.50.28.83
+set traffic-control advanced-queue leaf queue 79 bandwidth 3mbit
+IP10.50.28.83
+set traffic-control advanced-queue leaf queue 80 bandwidth 3mbit
+IP10.50.28.84
+set traffic-control advanced-queue leaf queue 81 bandwidth 3mbit
+IP10.50.28.84
+set traffic-control advanced-queue leaf queue 82 bandwidth 3mbit
+IP10.50.28.86
+set traffic-control advanced-queue leaf queue 83 bandwidth 7mbit
+IP10.50.28.86
+set traffic-control advanced-queue leaf queue 84 bandwidth 7mbit
+IP10.50.28.87
+set traffic-control advanced-queue leaf queue 85 bandwidth 5mbit
+IP10.50.28.87
+set traffic-control advanced-queue leaf queue 86 bandwidth 5mbit
+IP10.50.28.88
+set traffic-control advanced-queue leaf queue 87 bandwidth 14mbit
+IP10.50.28.88
+set traffic-control advanced-queue leaf queue 88 bandwidth 14mbit
+IP10.50.29.10
+set traffic-control advanced-queue leaf queue 277 bandwidth 14mbit
+IP10.50.29.10
+set traffic-control advanced-queue leaf queue 278 bandwidth 14mbit
+IP10.50.29.11
+set traffic-control advanced-queue leaf queue 279 bandwidth 6mbit
+IP10.50.29.11
+set traffic-control advanced-queue leaf queue 280 bandwidth 6mbit
+IP10.50.29.12
+set traffic-control advanced-queue leaf queue 281 bandwidth 8mbit
+IP10.50.29.12
+set traffic-control advanced-queue leaf queue 282 bandwidth 8mbit
+IP10.50.29.15
+set traffic-control advanced-queue leaf queue 295 bandwidth 8mbit
+IP10.50.29.15
+set traffic-control advanced-queue leaf queue 296 bandwidth 8mbit
+IP10.50.29.18
+set traffic-control advanced-queue leaf queue 299 bandwidth 5mbit
+IP10.50.29.18
+set traffic-control advanced-queue leaf queue 300 bandwidth 5mbit
+IP10.50.29.19
+set traffic-control advanced-queue leaf queue 303 bandwidth 14mbit
+IP10.50.29.19
+set traffic-control advanced-queue leaf queue 304 bandwidth 14mbit
+IP10.50.29.2
+set traffic-control advanced-queue leaf queue 273 bandwidth 16mbit
+IP10.50.29.2
+set traffic-control advanced-queue leaf queue 274 bandwidth 16mbit
+IP10.50.29.28
+set traffic-control advanced-queue leaf queue 313 bandwidth 7mbit
+IP10.50.29.28
+set traffic-control advanced-queue leaf queue 314 bandwidth 7mbit
+IP10.50.29.35
+set traffic-control advanced-queue leaf queue 325 bandwidth 16mbit
+IP10.50.29.35
+set traffic-control advanced-queue leaf queue 326 bandwidth 16mbit
+IP10.50.29.42
+set traffic-control advanced-queue leaf queue 341 bandwidth 14mbit
+IP10.50.29.42
+set traffic-control advanced-queue leaf queue 342 bandwidth 14mbit
+IP10.50.29.60
+set traffic-control advanced-queue leaf queue 343 bandwidth 16mbit
+IP10.50.29.60
+set traffic-control advanced-queue leaf queue 344 bandwidth 16mbit
+IP10.50.29.8
+set traffic-control advanced-queue leaf queue 275 bandwidth 3mbit
+IP10.50.29.8
+set traffic-control advanced-queue leaf queue 276 bandwidth 3mbit
